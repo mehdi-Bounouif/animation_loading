@@ -1,2 +1,1 @@
-# animation_loading
-animation_loading
+![animation_loading](images/loading.jpg)
